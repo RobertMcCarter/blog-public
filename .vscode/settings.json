@@ -2,6 +2,8 @@
     "cSpell.words": [
         "boto",
         "botocore",
+        "mccarter",
         "pyfunctional"
-    ]
+    ],
+    "python.analysis.typeCheckingMode": "basic"
 }
